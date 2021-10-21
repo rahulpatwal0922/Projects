@@ -15,6 +15,16 @@ Clear button - is used to clear the task on the input.
 Sort button - is used to sort the tasks. All the completed tasks move to the end of the list.
 Delete button - is used to delete all the tasks form the list.
 
+
+<h1>Full Screen View</h1>
+<br>
 <img src="./screenshots/fullscreen.png" alt="ss">
+<br><br>
+
+<h1>Mobile screen view</h1>
+<br>
 <img src="./screenshots/mobilescreen.png" alt="ss">
+<br><br>
+<h1>Tablet screen view</h1>
+<br>
 <img src="./screenshots/tablet screen.png" alt="ss">
