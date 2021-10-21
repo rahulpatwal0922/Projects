@@ -14,3 +14,7 @@ Add button - is used to add the task in the list. The add button is disabled unt
 Clear button - is used to clear the task on the input.
 Sort button - is used to sort the tasks. All the completed tasks move to the end of the list.
 Delete button - is used to delete all the tasks form the list.
+
+<img src="./screenshots/fullscreen.png" alt="ss">
+<img src="./screenshots/mobilescreen.png" alt="ss">
+<img src="./screenshots/tablet screen.png" alt="ss">
