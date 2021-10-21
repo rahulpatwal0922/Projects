@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+
+#ulTasks li.done{
+    color: #6c757d;
+    text-decoration: line-through;
+}
+
+#heading{
+    color:black;
+    font-size: 50px;
+    margin: 15px 0;
+}
+
+#btnAdd{
+    width: 95%;
+}
+#btnSort{
+    width: 95%;
+
+}#btnClear{
+    width: 95%;
+    color: #ffffff;
+}#btnDelete{
+    width: 95%;
+}
+
+
